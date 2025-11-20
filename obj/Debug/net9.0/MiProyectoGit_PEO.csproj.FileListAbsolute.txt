@@ -1,0 +1,14 @@
+C:\Users\pauestort\MiProyectoGit_PEO\bin\Debug\net9.0\MiProyectoGit_PEO.exe
+C:\Users\pauestort\MiProyectoGit_PEO\bin\Debug\net9.0\MiProyectoGit_PEO.deps.json
+C:\Users\pauestort\MiProyectoGit_PEO\bin\Debug\net9.0\MiProyectoGit_PEO.runtimeconfig.json
+C:\Users\pauestort\MiProyectoGit_PEO\bin\Debug\net9.0\MiProyectoGit_PEO.dll
+C:\Users\pauestort\MiProyectoGit_PEO\bin\Debug\net9.0\MiProyectoGit_PEO.pdb
+C:\Users\pauestort\MiProyectoGit_PEO\obj\Debug\net9.0\MiProyectoGit_PEO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauestort\MiProyectoGit_PEO\obj\Debug\net9.0\MiProyectoGit_PEO.AssemblyInfoInputs.cache
+C:\Users\pauestort\MiProyectoGit_PEO\obj\Debug\net9.0\MiProyectoGit_PEO.AssemblyInfo.cs
+C:\Users\pauestort\MiProyectoGit_PEO\obj\Debug\net9.0\MiProyectoGit_PEO.csproj.CoreCompileInputs.cache
+C:\Users\pauestort\MiProyectoGit_PEO\obj\Debug\net9.0\MiProyectoGit_PEO.dll
+C:\Users\pauestort\MiProyectoGit_PEO\obj\Debug\net9.0\refint\MiProyectoGit_PEO.dll
+C:\Users\pauestort\MiProyectoGit_PEO\obj\Debug\net9.0\MiProyectoGit_PEO.pdb
+C:\Users\pauestort\MiProyectoGit_PEO\obj\Debug\net9.0\MiProyectoGit_PEO.genruntimeconfig.cache
+C:\Users\pauestort\MiProyectoGit_PEO\obj\Debug\net9.0\ref\MiProyectoGit_PEO.dll
